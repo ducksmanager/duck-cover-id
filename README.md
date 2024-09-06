@@ -1,3 +1,5 @@
+Moved to https://github.com/ducksmanager/core/tree/master/apps/cover-updater
+
 # duck-cover-id
 Store cover info from a COA database and process them through Pastec.
 
